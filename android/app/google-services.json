@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908976526954",
+    "project_id": "nmimsapp-73574",
+    "storage_bucket": "nmimsapp-73574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908976526954:android:fd403251d1c3bb535fdc13",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908976526954-tu7d58v6u2pfddm46hl2nvc6k1uf19o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoo_66mi4NiXIgrlDoM2KTShi8DPPxj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908976526954-tu7d58v6u2pfddm46hl2nvc6k1uf19o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
